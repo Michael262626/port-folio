@@ -5,8 +5,8 @@ import { Data } from './Data';
 const Testimonials = () => {
     return (
         <section className="testimonial container section" id="testimonials">
-            <h2 className="section__title">Those I've worked with say...</h2>
-            <span className="section__subtitle">Testimonials</span>
+            <h2 className="section__title">EXPERIENCE</h2>
+            <span className="section__subtitle">My experience so far in my journey....</span>
 
             <div className="testimonial__grid">
                 {Data.map(({ id, title, description }) => (

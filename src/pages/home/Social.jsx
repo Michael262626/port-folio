@@ -4,19 +4,15 @@ import Styles from "./Home.module.css";
 const Social = () => {
     return (
         <div className={Styles.home__social}>
-            <a href="https://www.instagram.com/yung_saviour_?igsh=NTc4MTIwNjQ2YQ==" className={Styles.home__socialIcon} target={"_blank"} >
-                <i className="uil uil-instagram"></i>
-            </a>
-
-            <a href="https://www.linkedin.com/in/abolaji-abisoye-15a0b41b1/" className={Styles.home__socialIcon} target={"_blank"} >
+            <a href="https://www.linkedin.com/in/michael-dikandu-01b536260/" className={Styles.home__socialIcon} target={"_blank"} >
                 <i className="uil uil-linkedin"></i>
             </a>
 
-            <a href="https://x.com/Aabolaji2k21" className={Styles.home__socialIcon} target={"_blank"} >
-                <i className="uil uil-twitter"></i>
+            <a href="https://wa.me/2347066993421" className={Styles.home__socialIcon} target={"_blank"} >
+                <i className="uil uil-whatsapp"></i>
             </a>
 
-            <a href="https://github.com/Abolaji2K21" className={Styles.home__socialIcon} target={"_blank"} >
+            <a href="https://github.com/Michael262626" className={Styles.home__socialIcon} target={"_blank"} >
                 <i className="uil uil-github"></i>
             </a>
         </div>

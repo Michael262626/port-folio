@@ -58,32 +58,20 @@ const Projects = () => {
             icon: "uil-web-grid",
             projects: [
                 {
-                    projectName: "Contact Management Website",
-                    githubLink: "https://contact-managment-app-using-react.vercel.app/"
+                    projectName: "Events management",
+                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/events-advance-2025"
                 },
                 {
-                    projectName: "Login/SignUp Website",
-                    githubLink: "https://login-page-ten-kappa.vercel.app/"
+                    projectName: "Blog Website",
+                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/my_blog"
                 },
                 {
-                    projectName: "Next-Cent App Design",
-                    githubLink: "https://react-next-cent-fiuzb7rtr-abolaji-s-projects.vercel.app/"
-                },
-                {
-                    projectName: "Connectivity Website",
-                    githubLink: "https://multilconnect-front-end.vercel.app/"
-                },
-                {
-                    projectName: "BeeJhay Gadget App",
-                    githubLink: "https://bee-jhay-gadget-n77vawvzu-abolaji-s-projects.vercel.app/"
+                    projectName: "Lend sqr fe-test",
+                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/lendsqr-fe-test"
                 },
                 {
                     projectName: "Portfolio Website",
                     githubLink: "https://my-portfolio-phi-drab-12.vercel.app/"
-                },
-                {
-                    projectName: "Book Collection Website",
-                    githubLink: "https://bookcollections.vercel.app/"
                 },
             ]
         },
@@ -94,26 +82,26 @@ const Projects = () => {
             icon: "uil-server-network",
             projects: [
                 {
-                    projectName: "Movie Hub REST API",
-                    githubLink: "https://github.com/Abolaji2K21/Movie_Hub"
+                    projectName: "CAPSTONE PROJECT",
+                    githubLink: "https://github.com/Michael262626/CapStoneProject"
                 },
                 {
                     projectName: "ServiceMatch API",
                     githubLink: "https://github.com/MultiConnectWeb/MultiConnect"
                 },
                 {
-                    projectName: "Contact Management API",
-                    githubLink: "https://github.com/Abolaji2K21/Cloned_Contact_App_For_Practice"
+                    projectName: "MAVERICKS_HUB",
+                    githubLink: "https://github.com/Michael262626/mavericks_hb"
                 },
                 {
-                    projectName: "Blog Hub REST API",
-                    githubLink: "https://github.com/Abolaji2K21/Modern_Blog"
+                    projectName: "CONTACT MANAGEMENT",
+                    githubLink: "https://github.com/Michael262626/ContactManager"
                 },
                 {
-                    projectName: "Productivity Toolbox API ",
-                    githubLink: "https://github.com/Abolaji2K21/Java_Script_Gate/"
+                    projectName: "PASSWORD MANAGER",
+                    githubLink: "https://github.com/Michael262626/PasswordManagementService"
                 },
-
+                
             ]
         },
         {
@@ -121,25 +109,18 @@ const Projects = () => {
             description: "Proficient in algorithm design and problem-solving, optimizing solutions for complex computational problems.",
             icon: "uil-brain",
             projects: [
-                {
-                    projectName: "Archery Game Algorithm",
-                    githubLink: "https://github.com/Abolaji2K21/taskForFirstGate-/tree/main/src/ArcheryGame"
-                },
-                {
-                    projectName: "Logistic Workflow Algorithm",
-                    githubLink: "https://github.com/Abolaji2K21/taskForFirstGate-/tree/main/src/Back_To_Sender"
-                },
+                
                 {
                     projectName: "Tic Tac Toe Game Algorithm",
-                    githubLink: "https://github.com/Abolaji2K21/taskForFirstGate-/tree/main/src/Tic_Tac_Toe"
+                    githubLink: "https://github.com/Michael262626/Java-code-rank2/tree/main/src/TicTacToeGame"
                 },
                 {
                     projectName: "TurtleGraphics Algorithm",
-                    githubLink: "https://github.com/Abolaji2K21/taskForFirstGate-/tree/main/src/TurtleGraphics"
+                    githubLink: "https://github.com/Michael262626/Java-code-rank2/tree/main/src/Turtle"
                 },
                 {
                     projectName: "SevenSegment Algorithm",
-                    githubLink: "https://github.com/Abolaji2K21/taskForFirstGate-/tree/main/src/SevenSegmentDisplay"
+                    githubLink: "https://github.com/Michael262626/Java-code-rank2/tree/main/src/SevenSegmentDisplay"
                 },
             ]
         }

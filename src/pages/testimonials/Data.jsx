@@ -1,29 +1,24 @@
 export const Data = [
     {
       id:1,
-      title: "Dr Damilola(CEO Damilola Clinic)",
+      title: "FORTUNA(FINTECH)",
       description:
-        "Great job in organizing and analyzing data at Damilola Clinic, " +
-          "which helped improve overall operations and patient care.",
+        "I worked there as an intern, i was a full stack engineer, working with DOTNET and REACT" +
+          "We built a system that helps fintech companies to manage " +
+           "their reports and also be able to use any databse of perefernce",
     },
     {
         id:2,
-        title: "Mr Sikiru(Facilitator @ Semicolon Africa)",
+        title: "IETECH(FINTECH)",
         description:
-            "Impressive work! Every part of the project was handled thoroughly and delivered with great results.",
+            "Currently working there as a full stack engr. We are trying to develop a solution of payment gateway for fintech companies",
     },
     {
         id:3,
-        title: "Dr Adebayo Tomiwa (Lecturer @ GAU)",
+        title: "Mr Fabuda Samuel (Lead engr)",
         description:
-            "Great teamwork, always attentive, and consistently contributed effectively to group projects.",
-
-    },
-    {
-        id:4,
-        title: "Mr Philip Ajibola (TeamMate @ Semicolon Africa)",
-        description:
-            "Your leadership made all the difference. Grateful to have had you as our guide.",
+            "It is a very good experience working with him, he is very good at explaining things and also very good at debugging"+
+            "I have gained lots of knowledge and a different view of thinking.",
 
     },
 

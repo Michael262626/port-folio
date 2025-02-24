@@ -21,7 +21,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">JavaScript</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <span className="skills__level">Professional</span>
                         </div>
                     </div>
 
@@ -41,7 +41,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">React</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <span className="skills__level">Advance</span>
                         </div>
                     </div>
 
@@ -54,14 +54,22 @@ const Frontend = () => {
                     {/*    </div>*/}
                     {/*</div>*/}
 
+                    {/* <div className="skills__data">
+                        <i className="bx bx-badge-check"></i>
+
+                        <div>
+                            <h3 className="skills__name">Java</h3>
+                            <span className="skills__level">Professional</span>
+                        </div>
+                    </div>
                     <div className="skills__data">
                         <i className="bx bx-badge-check"></i>
 
                         <div>
-                            <h3 className="skills__name">HTML & CSS</h3>
-                            <span className="skills__level">Advance</span>
+                            <h3 className="skills__name">Dot net</h3>
+                            <span className="skills__level">Professional</span>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

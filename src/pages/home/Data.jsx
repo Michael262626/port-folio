@@ -5,7 +5,7 @@ const Data = () => {
 
     return (
         <div className={Styles.home__data}>
-            <h1 className={Styles.home__title}>Abisoye Abolaji
+            <h1 className={Styles.home__title}>Michael Dikandu
                 <svg
                     width="36"
                     height="36"

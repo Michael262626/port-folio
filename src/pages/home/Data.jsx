@@ -1,7 +1,7 @@
 import React from "react";
 import Styles from "./Home.module.css";
 
-const Data = () => {
+const  Data = () => {
 
     return (
         <div className={Styles.home__data}>

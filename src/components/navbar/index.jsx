@@ -28,7 +28,7 @@ const Navbar = () => {
     return (
         <header className={styles.header}>
             <nav className={`${styles.nav} container`}>
-                <a href="#home" className={styles.nav__logo}>Abolaji</a>
+                <a href="#home" className={styles.nav__logo}>Dikandu</a>
                 <div className={`${styles.nav__menu} ${toggle ? styles.show_menu : ''}`}>
                     <ul className={`${styles.nav__list} grid`}>
                         {['home', 'about', 'skills', 'projects', 'qualifications', 'testimonials', 'contact'].map(section => (

@@ -63,7 +63,7 @@ const Projects = () => {
                 },
                 {
                     projectName: "Blog Website",
-                    githubLink: "https://myblog-seven-sigma.vercel.app/sign-in"
+                    githubLink: "https://myblog-seven-sigma.vercel.app/"
                 },
                 {
                     projectName: "Lend sqr fe-test",

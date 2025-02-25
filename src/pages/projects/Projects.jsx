@@ -59,19 +59,15 @@ const Projects = () => {
             projects: [
                 {
                     projectName: "Events management",
-                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/events-advance-2025"
+                    githubLink: "https://events-advance-2025.vercel.app/"
                 },
                 {
                     projectName: "Blog Website",
-                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/my_blog"
+                    githubLink: "https://myblog-seven-sigma.vercel.app/sign-in"
                 },
                 {
                     projectName: "Lend sqr fe-test",
-                    githubLink: "https://vercel.com/michaels-projects-9c4301fb/lendsqr-fe-test"
-                },
-                {
-                    projectName: "Portfolio Website",
-                    githubLink: "https://my-portfolio-phi-drab-12.vercel.app/"
+                    githubLink: "https://michael-dikandu-lendsqr-fe-test.vercel.app/signup"
                 },
             ]
         },

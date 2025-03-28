@@ -69,6 +69,18 @@ const Projects = () => {
                     projectName: "Lend sqr fe-test",
                     githubLink: "https://michael-dikandu-lendsqr-fe-test.vercel.app/signup"
                 },
+                {
+                    projectName: "MeetingMinds",
+                    githubLink: "https://meeting-minds-gfrhs7n0f-michaels-projects-9c4301fb.vercel.app/"
+                },
+                {
+                    projectName: "Ecommerce",
+                    githubLink: "https://bobby-store-nu.vercel.app/"
+                },
+                {
+                    projectName: "EAZIRENT",
+                    githubLink: "https://eazi-rent-eight.vercel.app/"
+                },
             ]
         },
         {
@@ -96,6 +108,10 @@ const Projects = () => {
                 {
                     projectName: "PASSWORD MANAGER",
                     githubLink: "https://github.com/Michael262626/PasswordManagementService"
+                },
+                {
+                    projectName: "WALLET",
+                    githubLink: "https://github.com/Michael262626/Wallet"
                 },
                 
             ]
